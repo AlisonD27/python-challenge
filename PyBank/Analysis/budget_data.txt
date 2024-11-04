@@ -1,0 +1,8 @@
+
+Budget Data Analysis 
+-----------------------------
+	Total Months = 86
+	Total Profits and Losses = $22,564,198.00
+	Average Change Per Month = $-8,311.11
+	Greatest Increase = Aug-16 Amount $1,862,002.00
+	Greatest Decrease = Feb-14 Amount $-1,825,558.00
